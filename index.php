@@ -6,7 +6,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Home</title>
+    <title></title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width">
 
@@ -15,27 +15,7 @@
     <script src="js/vendor/modernizr-2.6.2.min.js"></script> 
 </head>
 <body>
-        <div class="container">
-            <div class="header">  
-                <h3 class="text-muted">Flop</h3>
-            </div>
-
-            <div class="app">
-                <h1>flop</h1>
-                <div class="circle"><a href ="calendar_page.php">    
-                    <p class="plan">PLAN</p>
-                   <p class="newEvent">a new event</p></a>
-                </div>
-                <div class="events">
-                    <a href="http://codepen.io/rvevaina/full/wBomH/"><h1>My Events</h1></a>
-                </div>
-
-
-        </div>
-
-            <div class="footer">
-                <p><span class="glyphicon glyphicon-heart"></span> from the FLOP team</p>
-            </div>
+        
         
 
         <!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> -->
